@@ -1,4 +1,3 @@
-# GitHub-User-Search
 # GitHub User Search
 
 A simple web application to search and display GitHub user profiles with their repositories.
